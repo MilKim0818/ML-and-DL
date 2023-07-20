@@ -1,2 +1,11 @@
-# ML_and_DL
-Machine Learing, Deep Learning Modeling
+# Machine Learing Modeling
+## Supervised
+* Regression
+* Classifier
+
+## Unsupervised
+* Clustering
+
+# Deep Learning Modeling
+## NPL 
+## RNN 
